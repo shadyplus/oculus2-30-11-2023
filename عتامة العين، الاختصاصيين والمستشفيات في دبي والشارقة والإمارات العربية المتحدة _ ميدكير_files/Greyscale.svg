@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Greyscale">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Greyscale" clip-path="url(#clip-Greyscale)">
+    <g id="Group_1049" data-name="Group 1049" transform="translate(-90 -195)">
+      <g id="Color_rouds" data-name="Color rouds" transform="translate(90 200)">
+        <path id="Path_3045" data-name="Path 3045" d="M181.771,236.179a4.533,4.533,0,1,1,4.521-4.533A4.527,4.527,0,0,1,181.771,236.179Z" transform="translate(-169.771 -224.789)" fill="#bfbfbf"/>
+        <path id="Path_3046" data-name="Path 3046" d="M242,206.857a6.856,6.856,0,0,1-12,4.533,6.851,6.851,0,0,0,0-9.066,6.856,6.856,0,0,1,12,4.533Z" transform="translate(-218 -200)" fill="#dbdbdb"/>
+        <path id="Path_3047" data-name="Path 3047" d="M100.286,206.857A6.829,6.829,0,0,0,102,211.39a6.857,6.857,0,1,1,0-9.066A6.829,6.829,0,0,0,100.286,206.857Z" transform="translate(-90 -200)" fill="#97005e"/>
+      </g>
+    </g>
+  </g>
+</svg>

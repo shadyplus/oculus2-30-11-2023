@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Font">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Font" clip-path="url(#clip-Font)">
+    <g id="Group_1048" data-name="Group 1048" transform="translate(129.926 -410.187)">
+      <g id="A" transform="translate(-129.926 413.003)" style="isolation: isolate">
+        <g id="Group_1046" data-name="Group 1046" style="isolation: isolate">
+          <path id="Path_3043" data-name="Path 3043" d="M-119.5,424.923h-6.553l-1.187,3.363h-2.683L-124.209,413h2.882l5.694,15.283h-2.683Zm-.7-1.937-2.573-7.257-2.573,7.257Z" transform="translate(129.926 -413.003)"/>
+        </g>
+      </g>
+      <g id="A-2" transform="translate(-114.469 419.515)" style="isolation: isolate">
+        <g id="Group_1047" data-name="Group 1047" style="isolation: isolate">
+          <path id="Path_3044" data-name="Path 3044" d="M-114.028,424.137h-3.556l-.63,1.783h-1.871l3.265-8.771h2.023l3.254,8.771h-1.871Zm-.477-1.346-1.307-3.745-1.307,3.745Z" transform="translate(120.085 -417.149)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
